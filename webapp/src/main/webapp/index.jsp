@@ -1,6 +1,10 @@
 <form action="action_page.php">
   <div class="container">
+< HEAD
     <h1>Welcome!! MALLIKARJUNA DevOps Student Registration Form!!</h1>
+
+	  <h1>MalliKarjuna DevOps Student Registration Form!!</h1>
+	  809c9312e59607dd53b6edd3722bae852c86b158
     <p>Please fill in this form for registration!!!</p>
     <hr>
     <br>  
